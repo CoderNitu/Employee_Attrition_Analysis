@@ -2,11 +2,11 @@
 
 I have to play an HR Analyst Role in this project regarding the attrition of a company XYZ to find out why employees are leaving the company and reduce the attrition rate by building a visually immersive interactive dashboard by analyzing the key factors that can help the organization make data-driven decisions.
 
-𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 / 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲:
+# 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 / 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲:
 
 I have to play an HR Analyst Role in this project regarding the attrition of a company XYZ to find out why employees are leaving the company and reduce the attrition rate by building a visually immersive interactive dashboard by analyzing the key factors that can help the organization make data-driven decisions.
 
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗪𝗼𝗿𝗸𝗿𝗳𝗹𝗼𝘄:
+# 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗪𝗼𝗿𝗸𝗿𝗳𝗹𝗼𝘄:
 
 1. Dᴀᴛᴀ Exᴘʟᴏʀᴀᴛɪᴏɴ & Cʟᴇᴀɴɪɴɢ: 
 
