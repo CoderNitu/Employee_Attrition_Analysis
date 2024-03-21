@@ -12,19 +12,19 @@ I have to play an HR Analyst Role in this project regarding the attrition of a c
 
 By utilizing essential Python libraries, I meticulously explored and cleaned the dataset to ensure accuracy and reliability.
 
-2. PᴏᴡᴇʀBI Dᴀꜱʜʙᴏᴀʀᴅ Cʀᴇᴀᴛɪᴏɴ: 
+## 2. PᴏᴡᴇʀBI Dᴀꜱʜʙᴏᴀʀᴅ Cʀᴇᴀᴛɪᴏɴ: 
 
 I imported the refined CSV file into PowerBI, harnessing the power of ETL (Extract, Transform, Load) processes to craft a visually immersive and interactive dashboard.
 
-3. DAX Fᴜɴᴄᴛɪᴏɴꜱ & Dᴀᴛᴀ Aɴᴀʟʏꜱɪꜱ: 
+## 3. DAX Fᴜɴᴄᴛɪᴏɴꜱ & Dᴀᴛᴀ Aɴᴀʟʏꜱɪꜱ: 
 
 Leveraging DAX functions, I computed crucial metrics and generated new columns to facilitate a deeper analysis of key factors contributing to attrition.
 
-4. Vɪꜱᴜᴀʟɪᴢᴀᴛɪᴏɴ & Iɴꜱɪɢʜᴛꜱ:
+## 4. Vɪꜱᴜᴀʟɪᴢᴀᴛɪᴏɴ & Iɴꜱɪɢʜᴛꜱ:
 
 With multiple visualizations and filtering options, I unearthed invaluable insights, uncovering the root causes of attrition and identifying actionable strategies for retention.
 
-5. Dᴀᴛᴀ Sᴛᴏʀʏᴛᴇʟʟɪɴɢ & Rᴇᴄᴏᴍᴍᴇɴᴅᴀᴛɪᴏɴꜱ: 
+## 5. Dᴀᴛᴀ Sᴛᴏʀʏᴛᴇʟʟɪɴɢ & Rᴇᴄᴏᴍᴍᴇɴᴅᴀᴛɪᴏɴꜱ: 
 
 Armed with compelling insights, I crafted a persuasive presentation/report, effectively communicating the story behind the data and offering actionable recommendations to mitigate attrition rates.
 
