@@ -41,11 +41,11 @@ A significant portion of attrition occurred within the first year of employment,
 ## 3️⃣ Age Group Analysis: 
 Employees between the ages of 26-35 were observed to have the highest attrition rates, signaling potential challenges in retaining this demographic segment.
 
-## 4️⃣ 
-Educational Background Impact: Attrition was notably observed among employees with educational backgrounds in life sciences and medical fields, indicating potential areas for targeted retention initiatives.
+## 4️⃣ Educational Background Impact: 
+Attrition was notably observed among employees with educational backgrounds in life sciences and medical fields, indicating potential areas for targeted retention initiatives.
 
-## 5️⃣ 
-Job Role Insights: Certain job roles, such as sales executives, research scientists, and laboratory technicians, experienced higher attrition rates, warranting focused attention on retention strategies tailored to these positions.
+## 5️⃣ Job Role Insights: 
+Certain job roles, such as sales executives, research scientists, and laboratory technicians, experienced higher attrition rates, warranting focused attention on retention strategies tailored to these positions.
 
 ## 6️⃣ Salary Influence: 
 Employees earning less than 40k salary demonstrated a higher likelihood of attrition, emphasizing the importance of competitive compensation and benefits packages in retention efforts.
