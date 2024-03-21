@@ -27,3 +27,6 @@ With multiple visualizations and filtering options, I unearthed invaluable insig
 5. Dᴀᴛᴀ Sᴛᴏʀʏᴛᴇʟʟɪɴɢ & Rᴇᴄᴏᴍᴍᴇɴᴅᴀᴛɪᴏɴꜱ: 
 
 Armed with compelling insights, I crafted a persuasive presentation/report, effectively communicating the story behind the data and offering actionable recommendations to mitigate attrition rates.
+
+![Dashboard](https://github.com/CoderNitu/Employee_Attrition_Analysis/assets/87817227/3ec0c143-ac75-4d8e-9f8a-432be51d79ac)
+
