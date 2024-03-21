@@ -8,7 +8,7 @@ I have to play an HR Analyst Role in this project regarding the attrition of a c
 
 # 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗪𝗼𝗿𝗸𝗿𝗳𝗹𝗼𝘄:
 
-1. Dᴀᴛᴀ Exᴘʟᴏʀᴀᴛɪᴏɴ & Cʟᴇᴀɴɪɴɢ: 
+## 1. Dᴀᴛᴀ Exᴘʟᴏʀᴀᴛɪᴏɴ & Cʟᴇᴀɴɪɴɢ: 
 
 By utilizing essential Python libraries, I meticulously explored and cleaned the dataset to ensure accuracy and reliability.
 
