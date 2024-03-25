@@ -73,3 +73,6 @@ Introduce wellness programs aimed at promoting work-life balance and reducing st
 
 ## 7️⃣ Continuous Feedback Mechanisms:
 Establish regular feedback mechanisms to solicit input from employees and identify areas for improvement. This could involve implementing regular surveys, suggestion boxes, or one-on-one feedback sessions to gather insights and address concerns proactively.
+
+## 𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗟𝗶𝗻𝗸: https://lnkd.in/d79YPde9 
+## 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗟𝗶𝗻𝗸: https://lnkd.in/dJ-qSzc5
